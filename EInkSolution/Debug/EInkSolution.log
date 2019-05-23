@@ -1,0 +1,6 @@
+﻿  NotificationWrapper.cpp
+c:\users\guagnv\documents\visual studio 2015\projects\einksolution\einksolution\notificationwrapper.h(13): warning C4091: 'static ': ignored on left of 'NotificationWrapper' when no variable is declared
+  ClockFrame.cpp
+  Generating Code...
+  EInkSolution.vcxproj -> C:\Users\guagnv\documents\visual studio 2015\Projects\EInkSolution\Debug\EInkSolution.exe
+  EInkSolution.vcxproj -> C:\Users\guagnv\documents\visual studio 2015\Projects\EInkSolution\Debug\EInkSolution.pdb (Partial PDB)
